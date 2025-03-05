@@ -966,6 +966,9 @@
         }
       },
       "SchoolRegister.DAL/1.0.0": {
+        "dependencies": {
+          "SchoolRegister.Model": "1.0.0"
+        },
         "runtime": {
           "SchoolRegister.DAL.dll": {}
         }
@@ -979,11 +982,19 @@
         }
       },
       "SchoolRegister.Services/1.0.0": {
+        "dependencies": {
+          "SchoolRegister.DAL": "1.0.0",
+          "SchoolRegister.Model": "1.0.0",
+          "SchoolRegister.ViewModels": "1.0.0"
+        },
         "runtime": {
           "SchoolRegister.Services.dll": {}
         }
       },
       "SchoolRegister.ViewModels/1.0.0": {
+        "dependencies": {
+          "SchoolRegister.Model": "1.0.0"
+        },
         "runtime": {
           "SchoolRegister.ViewModels.dll": {}
         }

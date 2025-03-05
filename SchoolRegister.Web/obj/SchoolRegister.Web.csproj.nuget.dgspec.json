@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -117,7 +121,7 @@
           "dependencies": {
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -168,7 +172,17 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
+                "projectPath": "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj"
+              },
+              "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              },
+              "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -233,7 +247,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "C:\\Users\\janpi\\Documents\\GitHub\\Aplikacje_WWW\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

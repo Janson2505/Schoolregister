@@ -1675,6 +1675,9 @@
       "SchoolRegister.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SchoolRegister.Model": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/SchoolRegister.DAL.dll": {}
         },
@@ -1686,7 +1689,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.Extensions.Identity.Stores": "8.0.3"
+          "Microsoft.Extensions.Identity.Stores": "8.0.7"
         },
         "compile": {
           "bin/placeholder/SchoolRegister.Model.dll": {}
@@ -1698,6 +1701,11 @@
       "SchoolRegister.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SchoolRegister.DAL": "1.0.0",
+          "SchoolRegister.Model": "1.0.0",
+          "SchoolRegister.ViewModels": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/SchoolRegister.Services.dll": {}
         },
@@ -1708,6 +1716,9 @@
       "SchoolRegister.ViewModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SchoolRegister.Model": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/SchoolRegister.ViewModels.dll": {}
         },

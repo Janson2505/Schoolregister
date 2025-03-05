@@ -10,3 +10,11 @@ C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\
 C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\refint\SchoolRegister.Services.dll
 C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.pdb
 C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\ref\SchoolRegister.Services.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.DAL.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.Model.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.ViewModels.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.Model.pdb
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.DAL.pdb
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.ViewModels.pdb
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.csproj.AssemblyReference.cache
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRe.F76B329C.Up2Date
