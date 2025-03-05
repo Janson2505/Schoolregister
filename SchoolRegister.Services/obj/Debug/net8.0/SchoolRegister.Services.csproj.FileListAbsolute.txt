@@ -1,0 +1,12 @@
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.Services.deps.json
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.Services.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\bin\Debug\net8.0\SchoolRegister.Services.pdb
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.AssemblyInfoInputs.cache
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.AssemblyInfo.cs
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.csproj.CoreCompileInputs.cache
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.sourcelink.json
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\refint\SchoolRegister.Services.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.pdb
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.Services\obj\Debug\net8.0\ref\SchoolRegister.Services.dll

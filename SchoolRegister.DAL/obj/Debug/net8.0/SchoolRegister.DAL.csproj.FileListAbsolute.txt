@@ -1,0 +1,12 @@
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.deps.json
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.pdb
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.AssemblyInfoInputs.cache
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.AssemblyInfo.cs
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.sourcelink.json
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\refint\SchoolRegister.DAL.dll
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.pdb
+C:\Users\janpi\Documents\GitHub\Aplikacje_WWW\SchoolRegister.DAL\obj\Debug\net8.0\ref\SchoolRegister.DAL.dll
